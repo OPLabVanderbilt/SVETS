@@ -1,0 +1,53 @@
+
+subjno	subjini	trialnum	trialtype	Name1	Name2	Name3	tarloc	resp	ac	rt
+000	mas	1	Test	Uppercut	Outlook	Megatron	3	1	0	1662.580217
+000	mas	2	Test	Courage	Starscream	Top Notch	2	1	0	589.866613
+000	mas	3	Test	Fivepin	Razorclaw	Riot	2	1	0	472.124402
+000	mas	4	Test	Lavaman	Chromoburn	Quickstrike	3	1	0	526.801362
+000	mas	5	Test	Lightning Rod	Thunderclash	Firecraft	2	1	0	427.690284
+000	mas	6	Test	Highboxer	Tigatron	Terraclash	2	1	0	419.151716
+000	mas	7	Test	Bumblebee	Astromega	Receptor	1	1	1	404.424563
+000	mas	8	Test	Torrent	Ironhide	Delta Minor	2	1	0	414.751448
+000	mas	9	Test	Lordov	Amphius	Scorch	3	1	0	391.165266
+000	mas	10	Test	Quatraquake	Boomerjet	Sideswipe	3	1	0	409.846007
+000	mas	11	Test	Mallet	Dom	Soundwave	3	1	0	403.482596
+000	mas	12	Test	Ratchet	Volcano	Dasher	1	1	1	429.086615
+000	mas	13	Test	Wind Dagger	Camrod	Smokescreen	3	1	0	358.221441
+000	mas	14	Test	Dustrage	Roll Archer	Orion	3	1	0	417.203739
+000	mas	15	Test	Fox	Ricochet	Pitfall	2	1	0	378.260773
+000	mas	16	Catch	Dunkin Donuts	Cheddar Cheese	Shipwreck	3	1	0	412.883660
+000	mas	17	Test	Fireflight	Triblast	Dune Snare	1	1	1	390.499119
+000	mas	18	Test	Bluebreak	Moor Knight	Grapple	3	1	0	360.549622
+000	mas	19	Test	Spearonus	Inferno	Fuse	2	1	0	347.828614
+000	mas	20	Test	Roadbuster	Combust	Loggerhead	1	1	1	432.041777
+000	mas	21	Test	Vulture	Blitzwing	Crash	2	1	0	296.658536
+000	mas	22	Test	Skyhammer	Starshooter	Neoblot	1	1	1	309.744752
+000	mas	23	Test	Moonrider	Windcharger	Converse	2	1	0	339.645794
+000	mas	24	Test	Terp	Prowl	Carbonspin	2	1	0	296.005265
+000	mas	25	Catch	Frosted Flakes	Vanquish	Oatmeal Raisin	2	1	0	364.986855
+000	mas	26	Test	Flytrap	Tungsten	Reflector	3	1	0	328.345562
+000	mas	27	Test	Obsidian	Double Dare	Excelsion	1	1	1	333.309220
+000	mas	28	Test	Sunstreaker	Septawave	Proton	1	1	1	305.405861
+000	mas	29	Test	Cliffjumper	Nailclaw	Tanji	1	1	1	343.927709
+000	mas	30	Test	Grimmel	Giltwheel	Mirage	3	1	0	315.900769
+000	mas	31	Test	Jetstorm	Megaglide	Springshot	1	1	1	328.932270
+000	mas	32	Test	Speedswoop	Razorbyte	Talon	3	1	0	324.818885
+000	mas	33	Test	Thundercracker	Buzzcraft	Vilius	1	1	1	298.402200
+000	mas	34	Test	Flashrun	Solopred	Jazz	3	1	0	256.350534
+000	mas	35	Test	Hoverburst	Mort	Blurr	3	1	0	335.842310
+000	mas	36	Test	Enemy 	Sonic Thunder	Bounce	1	1	1	299.097770
+000	mas	37	Test	Raincharge	Crosscut	Hustler	2	1	0	274.766012
+000	mas	38	Test	Zeus	Hurricane	Airlock	2	1	0	290.103526
+000	mas	39	Test	Long Haul	Quickjet	Junction	1	1	1	296.042130
+000	mas	40	Test	Breacher	Dawn Bird	Tracker	1	1	1	262.065075
+000	mas	41	Test	Wolfspur	Night Boomerang	Chase	3	1	0	277.746527
+000	mas	42	Test	Barracuda	Hubcap	Koben	2	1	0	292.243786
+000	mas	43	Catch	Shrapnel	Diet Coke	J. Crew	1	1	1	346.298708
+000	mas	44	Test	Barricade	Ironwheel	Skidbit	1	1	1	253.672133
+000	mas	45	Test	Space Terror	Omicron Prime	Air Raid	3	1	0	261.875093
+000	mas	46	Test	Waveracer	Hound	Sotter	2	1	0	284.764933
+000	mas	47	Test	Canis Major	Cheetor	Sharpstrike	2	1	0	259.472896
+000	mas	48	Test	Hornet	Kickback	Crossfire	2	1	0	227.481550
+000	mas	49	Test	Punch	Deepwave	Roadflux	1	1	1	251.814992
+000	mas	50	Test	Arcee	Grimbolt	Victorion	1	1	1	260.228852
+000	mas	51	Test	Suntracker	Steelhead	Pointblank	3	1	0	235.079835

@@ -1,0 +1,53 @@
+
+subjno	subjini	trialnum	trialtype	Name1	Name2	Name3	tarloc	resp	ac	rt
+000	mas	1	Test	F-16	Utah	Vapor	1	3	0	4071.287085
+000	mas	2	Test	737	Serpens	Sheffield	1	3	0	875.146020
+000	mas	3	Test	Hellcat	W-66	LP-8	1	3	0	513.595161
+000	mas	4	Test	949	B-52	Flyingfish	2	3	0	478.378650
+000	mas	5	Test	C-130	Su-800	Black Skiff	1	3	0	412.958661
+000	mas	6	Test	P-209	Libra	B-2	3	3	1	374.135983
+000	mas	7	Catch	747	Lean Cuisine	Facebook	1	3	0	304.949519
+000	mas	8	Test	Me 200	ES-69	F-105	3	3	1	446.529370
+000	mas	9	Test	HLB	J-49	DC-3	3	3	1	436.410726
+000	mas	10	Test	Starlight	Bouncer	717	3	3	1	344.005392
+000	mas	11	Test	A400	Cygnus	777	3	3	1	308.247738
+000	mas	12	Test	87A	CS100	1020	2	3	0	361.415243
+000	mas	13	Test	96Y	Hawk	Roehr	2	3	0	349.125245
+000	mas	14	Test	8030	T-38	Bylon	2	3	0	448.119953
+000	mas	15	Test	NDA	DC-10	Bowman Cx36	2	3	0	496.016157
+000	mas	16	Test	Lester	Rotterdam	Liberator	3	3	1	485.854625
+000	mas	17	Test	877	A320	Ruby	2	3	0	524.861531
+000	mas	18	Test	MD-80	Q70	1010	1	3	0	841.442867
+000	mas	19	Test	C-17	MD-20	Sl-60	1	3	0	624.615791
+000	mas	20	Test	N7	X-1	RYY	2	3	0	386.017838
+000	mas	21	Test	A-10	D789	BV 10	1	3	0	437.103390
+000	mas	22	Test	Falcon 900	Courante	T-017	1	3	0	573.310444
+000	mas	23	Test	A380	B-6 Sprinter	Robson	1	3	0	584.765547
+000	mas	24	Test	8900	A2 Lobo	Spitfire	3	3	1	490.847289
+000	mas	25	Catch	Barnes and Noble	A319	Cool Whip	2	3	0	625.306302
+000	mas	26	Test	A-49	F/A-18	898	2	3	0	729.254714
+000	mas	27	Test	L-300	P-51	Tempo	2	3	0	597.057338
+000	mas	28	Test	CS300	Td 500	R-180	1	3	0	486.877481
+000	mas	29	Test	Gopher	Panther	MD-11	3	3	1	373.366643
+000	mas	30	Test	Lagrange	A340	797	2	3	0	392.894502
+000	mas	31	Test	Y 88	Juno	Citation Jet	3	3	1	347.186316
+000	mas	32	Test	DA20	Locus	51-md	1	3	0	311.315237
+000	mas	33	Test	Predator	T700	Ocelot	1	3	0	420.166779
+000	mas	34	Test	6690	Cub	r590	2	3	0	341.445708
+000	mas	35	Test	Protector	Dakota	78K	2	3	0	369.734999
+000	mas	36	Test	Yuri	CRJ 5007	E175	3	3	1	309.359530
+000	mas	37	Catch	Reese's Cup	Walgreens	F2	3	3	1	290.826531
+000	mas	38	Test	KZ-66	AirPrince	L-1011	3	3	1	265.500528
+000	mas	39	Test	Yak-130	XX-30	MK-477	1	3	0	336.749336
+000	mas	40	Test	432	King Air	LF-105	2	3	0	333.224201
+000	mas	41	Test	Cherokee	Z-7	Arizona	1	3	0	306.144035
+000	mas	42	Test	Missouri	J25	Raven	3	3	1	319.581911
+000	mas	43	Test	AM 99	LJ 431	Su-47	3	3	1	301.281134
+000	mas	44	Test	67V	Booker B-8	Otter	3	3	1	402.900750
+000	mas	45	Test	Mosquito	Western Lair	A480	1	3	0	324.403866
+000	mas	46	Test	393	VB-40	Starship	3	3	1	338.158387
+000	mas	47	Test	Z1	Ju 88	RT-9	2	3	0	333.845535
+000	mas	48	Test	BT10	Bf 109	Nova 8	2	3	0	354.442580
+000	mas	49	Test	Ural	DC-300	Camel	3	3	1	350.762665
+000	mas	50	Test	F-25	Dash 8	19-10	2	3	0	330.501301
+000	mas	51	Test	Me 262	F-41	Nightranger	1	3	0	446.748068

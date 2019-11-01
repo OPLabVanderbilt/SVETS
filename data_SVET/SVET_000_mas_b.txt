@@ -1,0 +1,53 @@
+
+subjno	subjini	trialnum	trialtype	Name1	Name2	Name3	tarloc	resp	ac	rt
+000	mas	1	Test	Ochre Gabbro	Kassam Thrasher	Mountain Bluebird	3	3	1	3022.121637
+000	mas	2	Test	Masked Golong	Blue Jay	Canyon Kingfisher	2	3	0	673.979738
+000	mas	3	Test	Great Mulmul	Streak-tailed Dogbird	Northern Raven	3	3	1	3304.000825
+000	mas	4	Test	Purple-breasted Shrew	Olive Mohee	Barn Swallow	3	1	0	2010.105574
+000	mas	5	Test	Savannah Sparrow	Tufted Gemthroat	Green Huckaloo	1	2	0	1280.957072
+000	mas	6	Catch	JCPenney	White-eyed Vireo	Tea Kettle	2	2	1	535.202474
+000	mas	7	Test	Gray-capped Woodear	Allegheny Bog Swallow	American Goldfinch	3	2	0	533.168375
+000	mas	8	Test	American Robin	Bluegrass Chickadee	Eastern Scrub Nutcracker	1	2	0	504.655446
+000	mas	9	Test	Wilmer's Cuckoo	Black-billed Cuckoo	Long-billed Rogalin	2	2	1	786.903190
+000	mas	10	Test	Holtcissel	Mountain Chickadee	Missouri Starwing	2	2	1	533.592714
+000	mas	11	Test	Blue Downbill	Cliff Swallow	Antique Sage	2	2	1	487.646257
+000	mas	12	Test	Winter Lazio	Pine Plover	Horned Lark	3	2	0	479.381755
+000	mas	13	Test	Bay Pipin	White-winged Parakeet	Liriope	2	2	1	460.938135
+000	mas	14	Test	Hooded Warbler	Cape Cod Myna	Western Kobuk	1	2	0	424.318139
+000	mas	15	Test	Northern Mockingbird	Silver-crowned Oriole	American Goldenwing	1	2	0	480.441641
+000	mas	16	Test	Long-tailed Steckle	Chesapeake Broadwing	Red-winged Blackbird	3	2	0	398.999501
+000	mas	17	Test	Rock Wren	Scoria	Oregon Groswing	1	2	0	479.326377
+000	mas	18	Test	Yellow-banded Vireo	Belted Kingfisher	Gold-collared Shortspur	2	2	1	432.237679
+000	mas	19	Catch	American Tree Sparrow	Mircowave Oven	Hyundai	1	2	0	427.023239
+000	mas	20	Test	Northern Cardinal	White-eyed Dotter	White-ringed Magpie	1	2	0	378.278285
+000	mas	21	Test	Fox Sparrow	Cascade Sparrow	Mouse Geum	1	2	0	462.017259
+000	mas	22	Test	Lapland Longspur	Orchard Spot-breast	Weigela	1	2	0	328.395269
+000	mas	23	Test	Scarlet Tanager	Blue-stripe Binbeak	Tri-colored Wheatear	1	2	0	306.357561
+000	mas	24	Test	Baltimore Oriole	Cloaked Queenbird	Broadbent's Flycatcher	1	2	0	303.657429
+000	mas	25	Test	Black-headed Peehatch	Brown-winged Digger	California Towhee	3	2	0	270.575207
+000	mas	26	Test	Hesperus Kinglark	Painted Ozark	Cassin's Kingbird	3	2	0	251.792623
+000	mas	27	Test	Thistle Grosbeak	Sage Thrasher	Wood Pennytail	2	2	1	243.419061
+000	mas	28	Test	Orange Shrub Vireo	Alder Flycatcher	Waxhaw	2	2	1	273.498231
+000	mas	29	Test	Jefferson's Bunting	Loggerhead Shrike	California Alewife	2	2	1	245.284273
+000	mas	30	Test	Warbling Vireo	Bush Moppet	Siouxland Jay	1	2	0	269.524795
+000	mas	31	Test	Brownpoll	Northern Gibbon	Gray Catbird	3	2	0	331.769009
+000	mas	32	Test	Coastal Abelia	Brown-spotted Foxtail	Tufted Titmouse	3	2	0	207.969092
+000	mas	33	Test	American Pipit	Scruffy Fletcher	Dark-horned Thrasher	1	2	0	249.925275
+000	mas	34	Test	Lark Tango	Phainopepla	Knight's Solitaire	2	2	1	271.891368
+000	mas	35	Test	Rose-throated Congaree	Brogan's Jay	Bicknell's Thrush	3	2	0	242.924036
+000	mas	36	Test	River Pointwing	Bohemian Waxwing	Dusky Nimpkin	2	2	1	363.984829
+000	mas	37	Test	Spot-breasted Pixie	McCown's Longspur	Pale-eyed Baylin	2	2	1	327.607216
+000	mas	38	Test	Kieffer Tanager	Bronze-headed Truit	Western Wood-Pewee	3	2	0	320.890959
+000	mas	39	Catch	Reebok	Ziploc	Bullock's Oriole	3	2	0	349.557852
+000	mas	40	Test	Evening Grosbeak	Dakota Raven	Antietam	1	2	0	338.522496
+000	mas	41	Test	Yellow-eyed Junco	Kipp's Grackle	Red-throated Severne	1	2	0	312.619296
+000	mas	42	Test	Pinyon Jay	Vermilion-tipped Finch	Eastern Ruffe	1	2	0	269.828039
+000	mas	43	Test	Whiskered Thrush	Kirkland Waterthrush	Black-capped Gnatcatcher	3	1	0	331.965288
+000	mas	44	Test	Green-notched Starling	Indigo Bunting	Yellow-eyed Tatterfly	2	1	0	329.323436
+000	mas	45	Test	Missippi Kinglet	Kate's Warbler	Budgerigar	3	1	0	287.064881
+000	mas	46	Test	Violet-green Cowbird	Bobolink	Tortoise Crossbill	2	1	0	702.122154
+000	mas	47	Test	Pine Siskin	Crimson Wrenrobin	Blue Swinger	1	1	1	418.254161
+000	mas	48	Test	Emerald Mockingbird	Valerian	Eastern Phoebe	3	1	0	724.620227
+000	mas	49	Test	Grey Mountain Pinchot	Great Kiskadee	Cobbler's Oriole	2	1	0	357.099906
+000	mas	50	Test	Shiny Ridgehawk	Veery	Honeyed Manokin	2	1	0	336.092095
+000	mas	51	Test	Red-rumped Rusbin	American Treetit	Ovenbird	3	1	0	349.071451
